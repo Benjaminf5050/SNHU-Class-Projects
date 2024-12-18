@@ -1,8 +1,6 @@
 # SNHU-CS-210-15457-M01
 Projects for the SNHU Class CS-210-15457-M01
 
-
-
 Summarize the project and what problem it was solving: The CornerGrocerProgram sorts and deals with lists for a simulated grocery store environment.
 
 What did you do particularly well?: I was able to import the foreign .txt list into the program successfully.
